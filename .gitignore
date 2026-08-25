@@ -428,3 +428,4 @@ FodyWeavers.xsd
 *.msm
 *.msp
 /src/TaxDocumentHub.Api/taxhub.db
+/src/TaxDocumentHub.Api/Migrations
